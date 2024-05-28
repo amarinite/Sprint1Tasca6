@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3022f38-d748-49e7-9021-a5c63cb16fe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sprint1Tasca6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1exercici1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1exercici2/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici2/GenericMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n2exercici1/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n2exercici1/GenericMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n2exercici2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n2exercici2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Marta/IdeaProjects/Sprint1Tasca6/src/n2exercici2",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marta/IdeaProjects/Sprint1Tasca7&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Marta\IdeaProjects\Sprint1Tasca6\src\n2exercici2" />
